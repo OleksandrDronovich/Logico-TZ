@@ -1,2 +1,5 @@
-APK Build: https://shorturl.at/gkMq6
-Video: https://shorturl.at/SxXWz
+APK Build: https://shorturl.at/w3vv2
+
+
+
+Video: https://shorturl.at/PeQ3V
