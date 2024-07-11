@@ -94,7 +94,7 @@ public class GameUIController : MonoBehaviour
     public void SetTotalCostText(string value)
     {
         totalCostText.SetText($"{value}$");
-        totalPayText.SetText($"{value}$");
+        totalPayText.SetText($"Pay: {value}$");
     }
     public void SetWinUpToText(string value)
     {
@@ -103,6 +103,6 @@ public class GameUIController : MonoBehaviour
 
     public void SetTotalMoneyText(string value) 
     {
-        totalMoneyText.SetText($"{value}$");
+        totalMoneyText.SetText($"Demo balance: {value}$");
     }
 }
